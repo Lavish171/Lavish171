@@ -28,7 +28,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-### trial
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lavish171" alt="Lavish171" /> </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lavish171&theme=tokyonight&show_icons=true" />
