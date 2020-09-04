@@ -27,3 +27,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+### trial
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AjinkyaTaranekar" alt="AjinkyaTaranekar" /> </p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AjinkyaTaranekar&theme=tokyonight&show_icons=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaTaranekar&theme=tokyonight&show_icons=true" />
