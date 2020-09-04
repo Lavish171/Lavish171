@@ -1,6 +1,6 @@
 ### Hi I'm Lavish Garg 👋
 
-### Connect with me 
+### How to reach me
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Lavish171)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garg-lavish/)
@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning hilt,dagger,room database,mvvm
 - 🤔 I’m looking for help with some suggestions for good android tutorials
 - 💬 Ask me about kotlin,Java,Data structures and Algorithms
-- 📫 How to reach me: Linkedin :- https://www.linkedin.com/in/garg-lavish/
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Some times I don't even know what I am doing
 
