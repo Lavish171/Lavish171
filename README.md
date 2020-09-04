@@ -1,6 +1,6 @@
 ### Hi I'm Lavish Garg 👋
 
-### How to reach me
+### How to reach me👇
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Lavish171)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garg-lavish/)
