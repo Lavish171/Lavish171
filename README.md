@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elavishgarg36@gmail.com)
 
 - 🔭 I’m currently working on Project in kotlin.
-- 🌱 I’m currently learning hilt,dagger,room database,mvvm
+- 🌱 I’m currently learning room database,MVVM.
 - 🤔 I’m looking for help with some suggestions for good android tutorials
 - 💬 Ask me about kotlin,Java,Data structures and Algorithms
 - 😄 Pronouns: He/his
