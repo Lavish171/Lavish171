@@ -29,6 +29,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lavish171" alt="Lavish171" /> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavish171)](https://github.com/Lavish171/github-readme-stats)
+
+
 
 
 
