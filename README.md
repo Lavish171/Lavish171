@@ -29,6 +29,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lavish171" alt="Lavish171" /> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Lavish171&theme=tokyonight&show_icons=true" />
+
 
 
